@@ -1,0 +1,19 @@
+{
+  "name": "a_dang_dummy_package",
+  "version": "1.0.1",
+  "description": "for tweaking github stats display",
+  "main": "index.js",
+  "homepage": "https://github.com/lostfictions/tmp",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lostfictions/tmp.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ignore_this": "^1.0.1"
+  }
+}
